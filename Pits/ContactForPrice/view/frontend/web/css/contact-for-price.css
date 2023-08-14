@@ -1,0 +1,60 @@
+/**
+ * Pits ContactForPrice
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is licenced under Webshop Extensions software license.
+ * Once you have purchased the software with PIT Solutions AG or one of its
+ * authorised resellers and provided that you comply with the conditions of this contract,
+ * PIT Solutions AG grants you a non-exclusive license, unlimited in time for the usage of
+ * the software in the manner of and for the purposes specified in the documentation according
+ * to the subsequent regulations.
+ *
+ *
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file if you wish to upgrade this extension to newer versions in the future.
+ *
+ * @category Pits
+ * @package Pits_ContactForPrice
+ * @author PIT Solutions Pvt. Ltd.
+ * @copyright Copyright (c) 2020 PIT Solutions AG. (www.pitsolutions.ch)
+ * @license https://www.webshopextension.com/en/licence-agreement/
+ */
+.request-price-button {
+    background: #eee;
+    border: 1px solid #ccc;
+    margin: 3px 0 10px 0 !important;
+    font-size: 13px;
+    line-height: 14px;
+    border-radius: 3px;
+    color: #333 !important;
+    text-decoration: none;
+    font-weight: 600;
+    padding: 8px 10px 8px 10px;
+    position: relative;
+    display: inline-block;
+    box-sizing: border-box;
+    box-shadow: inset 0 1px 0 0 #fff, inset 0 -1px 0 0 rgba(204, 204, 204, 0.3);
+}
+
+.request-price-button:hover {
+    text-decoration: none;
+    background: #e1e1e1;
+    border: 1px solid #ccc;
+    color: #333;
+}
+
+.call-for-price:before {
+    content: "";
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    left: 6px;
+    top: 7px;
+    background: url(../images/phone.png) left top;
+}
+
+.call-for-price {
+    padding-left: 30px !important;
+}

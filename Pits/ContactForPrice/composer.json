@@ -1,0 +1,22 @@
+{
+    "name": "pits/module-contact-for-price",
+    "description": "A Magento 2 module that enables to hide product price and add to cart button in frontend.",
+    "type": "magento2-module",
+    "version": "1.0.5",
+    "authors": [
+        {
+            "name": "PIT Solutions",
+            "email": "info@webshopextension.com",
+            "homepage": "https://www.webshopextension.com/",
+            "role": "Leader"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Pits\\ContactForPrice\\": ""
+        }
+    }
+}

@@ -1,0 +1,37 @@
+PITS Configuration,PITS Konfiguration
+Thank you for contacting us with your request. We'll respond to you very soon.,"Vielen Dank, dass Sie sich mit Ihrer Anfrage an uns wenden. Wir werden Ihnen sehr bald antworten."
+Something went wrong while processing your request. Please try again later.,Bei der Bearbeitung Ihrer Anfrage ist etwas schief gelaufen. Bitte versuchen Sie es später noch einmal.
+Please enter your name.,Bitte geben Sie Ihren Namen ein.
+Please enter your email address.,Bitte geben Sie Ihre E-Mail-Adresse ein.
+Please enter the description.,Bitte geben Sie die Beschreibung ein.
+Product sku is missing.,Produkt sku fehlt.
+Contact For Price,Kontakt für Preis
+Enable/Disable Contact For Price Module.,Kontakt für das Preismodul aktivieren/deaktivieren.
+Show Contact Button,Schaltfläche Kontakt anzeigen
+"Display 'Request for price' button in front-end which will enable customers to contact admin for price.<br>If set as 'No' Contact For Price, Product Price and  Add To Cart button will not be displayed.","Anzeige der Schaltfläche 'Preisanfrage' im Front-End, die es den Kunden ermöglicht, den Admin für den Preis zu kontaktieren.<br>Wenn als 'Nein' eingestellt, wird die Schaltfläche 'Kontakt für Preis, Produktpreis und Warenkorb hinzufügen' nicht angezeigt."
+Enable Call For Price,Aufruf zum Preis aktivieren
+If enabled will display 'Call for price' button instead of 'Request for price'.<br>Customer will be able to contact the shop by using the configured telephone number.,"Wenn aktiviert, wird die Schaltfläche 'Preisanfrage' anstelle von 'Preisanfrage' angezeigt.<br>Kunden können den Shop über die konfigurierte Telefonnummer kontaktieren."
+Telephone Number,Telefonnummer
+Call For Price telephone number.,Telefonnummer für Preisanfragen.
+Call for price,Aufruf zum Preis
+Custom Button Label,Benutzerdefinierte Tastenbeschriftung
+Customize Contact For Price button label.,Anpassen der Beschriftung der Schaltfläche Kontakt für Preis.
+Contact Email Address,Kontakt-E-Mail-Adresse
+Customer request for price will be sent to this address.,Preisanfragen von Kunden werden an diese Adresse geschickt.
+Request For Price,Preisanfrage
+Hide Product Price,Produktpreis ausblenden
+Name,Name
+Email,E-Mail
+SKU,SKU
+Telephone,Telefon
+Description,Beschreibung
+Submit,Einreichen
+Request For Price Submission,Antrag auf Preisvorlage
+Enable,Aktivieren Sie
+Yes,Ja
+No,Nein .
+This is a required field.,Dies ist ein Pflichtfeld.
+Display 'Request for price' button in front-end which will enable customers to contact admin for price.<br>If set as 'No' no changes will happen.,"Anzeige der Schaltfläche ""Preisanfrage"" im Frontend, die es den Kunden ermöglicht, den Administrator zu kontaktieren, um den Preis zu erfragen.<br>Wenn als ""Nein"" eingestellt, werden keine Änderungen vorgenommen."
+"You cannot add product %1 in comparison list.","Sie können das Produkt %1 nicht in die Vergleichsliste aufnehmen."
+"You can't add product to cart right now. ","Sie können das Produkt im Moment nicht in den Warenkorb legen. "
+"Because one of the products have enabled hide price feature.","Denn eines der Produkte hat die Funktion 'Preis ausblenden' aktiviert."

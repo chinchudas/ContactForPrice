@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<!--
+/**
+* Pits ContactForPrice
+*
+* NOTICE OF LICENSE
+*
+* This source file is licenced under Webshop Extensions software license.
+* Once you have purchased the software with PIT Solutions AG or one of its
+* authorised resellers and provided that you comply with the conditions of this contract,
+* PIT Solutions AG grants you a non-exclusive license, unlimited in time for the usage of
+* the software in the manner of and for the purposes specified in the documentation according
+* to the subsequent regulations.
+*
+*
+* DISCLAIMER
+*
+* Do not edit or add to this file if you wish to upgrade this extension to newer versions in the future.
+*
+* @category Pits
+* @package Pits_ContactForPrice
+* @author PIT Solutions Pvt. Ltd.
+* @copyright Copyright (c) 2020 PIT Solutions AG. (www.pitsolutions.ch)
+* @license https://www.webshopextension.com/en/licence-agreement/
+*/
+-->
+<form xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Ui:etc/ui_configuration.xsd">
+    <fieldset name="display_settings">
+        <field name="hide_price" class="Pits\ContactForPrice\Ui\Component\Form\HidePriceField">
+            <argument name="data" xsi:type="array">
+                <item name="config" xsi:type="array">
+                    <item name="dataType" xsi:type="string">boolean</item>
+                    <item name="formElement" xsi:type="string">checkbox</item>
+                    <item name="label" xsi:type="string" translate="true">Hide Product Price</item>
+                    <item name="prefer" xsi:type="string">toggle</item>
+                    <item name="valueMap" xsi:type="array">
+                        <item name="true" xsi:type="string">1</item>
+                        <item name="false" xsi:type="string">0</item>
+                    </item>
+                    <item name="sortOrder" xsi:type="number">150</item>
+                    <item name="default" xsi:type="number">0</item>
+                </item>
+            </argument>
+        </field>
+    </fieldset>
+</form>
